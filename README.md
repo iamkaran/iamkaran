@@ -1,10 +1,5 @@
-### Hello there 👋
+## Karan
 ---
-- 🚀 Skills: Python, Go, SOLIDWORKS PROF, AWS, Linux, Computer Networking...
-- 👾 Deployed: `IIoT` Applications at Automotive Companies .
-- ⛏️ Home lab: Proxmox VE (Thingsboard PE, Wazuh etc.), Teltonika RUT906 IoT gateways and a lot more.
----
-#### My Monkeytype Profile: [`k4karan`](https://monkeytype.com/profile/k4karan)
-#### My blog-site: [`iamkaran.github.io`](https://iamkaran.github.io) (Under construction 🚧)
----
--- INSERT --
+- Using Proxmox, Solidworks, AWS/DO, Python/Go etc.
+- Interested in Linux(especially NixOS), Embedded/IIoT, Networking, Home-labbing, and many other pieces of stuff.
+- Sharing my experiences at <https://iamkaran.github.io/>
