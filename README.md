@@ -1,6 +1,6 @@
 ## Karan
-- Using Proxmox, Solidworks, AWS/DO, Python/Go etc.
-- Interested in Linux(especially NixOS), Embedded/IIoT, Networking, Home-labbing, and many other pieces of stuff.
+- Working in the field of IIoT
+- Interested in Linux(especially NixOS), Embedded, Networking, Home-labbing, and many other pieces of stuff.
 - Sharing my experiences at <https://iamkaran.github.io/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
