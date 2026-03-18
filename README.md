@@ -67,11 +67,11 @@
   <tr>
     <td><strong>Tools & Networking</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/SolidWorks-005386?logo=dassaultsystemes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
       <img src="https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=white"/>
       <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SolidWorks-005386?logo=dassaultsystemes&logoColor=white"/>
     </td>
   </tr>
 </table>
