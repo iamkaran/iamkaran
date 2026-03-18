@@ -1,10 +1,10 @@
 ## Karan
-- Working in the field of `IIoT`
+- Working in the field of `IIoT`.
 - Interested in Linux (especially `NixOS`), Embedded, Networking, Home-labbing, and many other pieces of stuff.
-- Sharing my experiences at <https://iamkaran.github.io/>
-- Typing PR's: `142wpm` (10 word), `125wpm` (15 sec), `103 wpm` (30 sec) -> [MonkeyType Profile](https://monkeytype.com/account)
-- Workstation: Lenovo Thinkcentre M70q (Intel(R) Core(TM) i5-14600 (20) @ 5.20 GHz, 16GB DDR5)
-- Keyboard & Mouse: Aula F75, G304
+- Sharing my experiences at <https://iamkaran.github.io/>.
+- Typing PR's: `142wpm` (10 word), `125wpm` (15 sec), `103 wpm` (30 sec) -> [MonkeyType Profile](https://monkeytype.com/account).
+- Workstation: Lenovo Thinkcentre M70q (Intel(R) Core(TM) i5-14600 (20) @ 5.20 GHz, 16GB DDR5).
+- Keyboard & Mouse: Aula F75, Logitech G304.
 
 <table>
   <tr>
