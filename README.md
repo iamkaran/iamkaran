@@ -30,7 +30,6 @@
     <td><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
     </td>
   </tr>
