@@ -31,7 +31,6 @@
       <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"/>
       <img src="https://img.shields.io/badge/tmux-%23000000?logo=tmux&logoColor=%"/>
-      <img src="https://img.shields.io/badge/Zed-084CCF?logo=zedindustries&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white"/>
       <img src="https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white"/>
     </td>
