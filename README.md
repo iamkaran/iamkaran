@@ -1,6 +1,6 @@
 ## Karanveer Singh
 
-Working in **IIoT** — building systems at the intersection of industrial hardware and software and home-labbing on the side.
+Working in **IIoT** — building systems at the intersection of industrial hardware and software.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
