@@ -1,6 +1,8 @@
 ## Karanveer Singh
 
 Working in **IIoT** — building systems at the intersection of industrial hardware and software.
+<br>
+Check out my MonkeyType profile [here](https://monkeytype.com/profile/k4karan)
 
 Languages
 <br>
