@@ -13,7 +13,7 @@ Languages
 Tools
 <br>
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?logo=dassaultsystemes&logoColor=white)
 
 Infra
