@@ -1,5 +1,3 @@
-<img width="1400" height="200" alt="image" src="https://github.com/user-attachments/assets/e672e9b0-592a-4425-9e37-bf9d15496af3" />
-
 ## Karanveer Singh
 
 Working in **IIoT** — building systems at the intersection of industrial hardware and software.
