@@ -2,7 +2,6 @@
 
 Working in **IIoT** connecting hardware to software.
 <br>
-Check out my MonkeyType profile [here](https://monkeytype.com/profile/k4karan)
 
 Languages
 <br>
