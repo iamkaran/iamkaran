@@ -13,6 +13,7 @@ Tools
 <br>
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?logo=dassaultsystemes&logoColor=white)
 
 Infra
