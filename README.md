@@ -11,6 +11,7 @@ Languages
 
 Tools
 <br>
+![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
